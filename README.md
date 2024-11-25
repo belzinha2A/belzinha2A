@@ -1,16 +1,15 @@
-## Hi there 👋
+## boa vindas ao me perfil🤍
 
-<!--
-**belzinha2A/belzinha2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Maribel Anoategui Silva
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://ww.alura.com.be)                                                                                                                                                                                           
+-Estou desenvolvendo na linguagem JavaScipt                                                                                                                                                                             
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📧
+
+00001132136763sp@al.educacaop.sp.gov.br
+
+@m_bel.zh
+
+![NarutoGIF](https://github.com/user-attachments/assets/0489f68f-4133-4a1b-b2ac-d74c9f9d84ff)
